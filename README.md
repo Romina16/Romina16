@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me : romina.ortiz.correa000@gmail.com
+- 📫 How to reach me : rominaortizit@gmail.com
 
 <!---
 Romina16/Romina16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
