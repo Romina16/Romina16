@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Romina16
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me : rominaortizit@gmail.com
